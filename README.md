@@ -14,6 +14,9 @@ Desktop application to view profile data of Github users from their github usern
 - Tkinter
 - REST API
 
+## API used
+- GitHub API
+
 ## Screenshots
 ![screenshot_google](https://github.com/reshmaharidhas/Github-profile-viewer/assets/37250413/659ec57c-631a-4195-95e8-07b5af0296bb)
 
