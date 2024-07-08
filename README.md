@@ -7,7 +7,15 @@
 </p>
 Desktop application to view profile data of Github users from their github username using the Github REST API.
 
+![screenshot_my_profile](https://github.com/reshmaharidhas/Github-profile-viewer/assets/37250413/7fbd37d4-60a3-4010-ad21-748f87f80a83)
+
 ## Tech Stack
 - Python
 - Tkinter
 - REST API
+
+## Screenshots
+![screenshot_google](https://github.com/reshmaharidhas/Github-profile-viewer/assets/37250413/659ec57c-631a-4195-95e8-07b5af0296bb)
+
+## License
+MIT license
