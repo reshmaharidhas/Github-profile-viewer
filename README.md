@@ -58,7 +58,14 @@ Desktop application to view profile data of Github users from their github usern
 1. Clone the repository
 2. Navigate to the project directory
 3. Install the dependencies
-4. Run the application
+
+## Run⚙️
+Before running the application, 
+1. Obtain a GitHub personal access token.
+2. Insert your personal access token into github_profile_viewer.py file.
+Replace with your GitHub personal access token
+key = "YOUR_GITHUB_TOKEN'
+3. Run the github_profile_viewer.py file.
 
 ## License 📖
 MIT license
